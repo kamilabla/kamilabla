@@ -1,2 +1,2 @@
 ### Hi there 👋
-link do strony: [[https://kamilabla.github.io/]]
+link do strony: https://kamilabla.github.io/
