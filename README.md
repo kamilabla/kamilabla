@@ -4,6 +4,14 @@ Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i tech
 
 ---
 
+## O mnie
+
+- 🎓 Studiuję Informatykę i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie i jestem obecnie na 3 roku.
+- 💻 Lubie eksplorować nowe technologie.
+- 🚀 W wolnym czasie uczę się języków i czytam książki.
+
+---
+
 ## Technologie, którymi się zajmuję:
 
 - **Backend**: .NET, ASP.NET, Entity Framework  
@@ -31,13 +39,6 @@ Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania da
 
 ---
 
-## O mnie
-
-- 🎓 Studiuję Informatykę i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie i jestem obecnie na 3 roku.
-- 💻 Lubie eksplorować nowe technologie.
-- 🚀 W wolnym czasie uczę się języków i czytam książki.
-
----
 
 ## Jak się ze mną skontaktować?
 
