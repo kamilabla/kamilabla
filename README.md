@@ -36,7 +36,7 @@ Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania da
 ## Jak się ze mną skontaktować?
 
 - **Email**: [kamilablaszczyna@gmail.com]  
-- **LinkedIn**: [www.linkedin.com/in/kamila-błaszczyna-9690432b5]  
+- **LinkedIn**: [Kamila Błaszczyna](www.linkedin.com/in/kamila-błaszczyna-9690432b5)
  
 
 ---
