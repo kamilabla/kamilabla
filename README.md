@@ -27,7 +27,7 @@ Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania da
 
 ## O mnie
 
-- 🎓 Ukończyłam [Informatykę i Systemy Inteligentne] na [Akademii Górniczo-Hutniczej w Krakowie].  
+- 🎓 Studiuję Informatykę i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie i jestem obecnie na 3 roku.
 - 💻 Lubie eksplorować nowe technologie.
 - 🚀 W wolnym czasie uczę się języków i czytam książki.
 
@@ -35,7 +35,7 @@ Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania da
 
 ## Jak się ze mną skontaktować?
 
-- **Email**: [kamilablaszczyna@gmail.com]  
+- **Email**: kamilablaszczyna@gmail.com
 - **LinkedIn**: [Kamila Błaszczyna](www.linkedin.com/in/kamila-błaszczyna-9690432b5)
  
 
