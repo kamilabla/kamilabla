@@ -6,9 +6,9 @@ Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i tech
 
 ## O mnie
 
-- 🎓 Studiuję Informatykę i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie i jestem obecnie na 3 roku.
-- 💻 Lubie eksplorować nowe technologie.
-- 🚀 W wolnym czasie uczę się języków i czytam książki.
+-  Studiuję Informatykę i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie i jestem obecnie na 3 roku.
+-  Lubie eksplorować nowe technologie.
+-  W wolnym czasie uczę się języków i czytam książki.
 
 ---
 
