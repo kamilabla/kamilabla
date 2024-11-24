@@ -25,8 +25,9 @@ Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania da
 ### 🏨 [Hotel Management System](https://github.com/kamilabla/hotel-management-system)
 Aplikacja konsolowa w **Java** do zarządzania hotelem, umożliwiająca zameldowanie, wymeldowanie, przeglądanie i zapisywanie danych o pokojach w pliku CSV.
 
-### [Konwerter z C# na Python'a](https://github.com/kingaa1/KonwerterCs-Python)<br/>
+### 🐍 [Konwerter z C# na Python'a](https://github.com/kingaa1/KonwerterCs-Python)<br/>
 Projekt mający na celu konwersję uproszczonych programów w języku C# na język Python. 
+
 ---
 
 ## O mnie
