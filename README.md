@@ -1,4 +1,4 @@
-# Cześć! 👋 Witaj na moim profilu GitHub!
+# Cześć! 👋
 
 Jestem [Kamila Błaszczyna], jestem pasjonatką fizyki, programowania i technologii. Na moim profilu znajdziesz różnorodne projekty nad którymi pracowałam.
 
