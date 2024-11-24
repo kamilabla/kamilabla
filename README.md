@@ -19,14 +19,15 @@ Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i tech
 ### 📚 [Baza Studentów](https://github.com/kamilabla/projekt_baza_studentow)  
 Aplikacja webowa oparta na **ASP.NET MVC**, pozwalająca zarządzać danymi studentów oraz pracowników.
 
-### 🌍 [Environmental Monitor](https://github.com/twoje-konto/environmental-monitor)  
-Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania danych za pomocą MQTT.
-
 ### 🏨 [Hotel Management System](https://github.com/kamilabla/hotel-management-system)
 Aplikacja konsolowa w **Java** do zarządzania hotelem, umożliwiająca zameldowanie, wymeldowanie, przeglądanie i zapisywanie danych o pokojach w pliku CSV.
 
 ### 🐍 [Konwerter z C# na Python'a](https://github.com/kingaa1/KonwerterCs-Python)<br/>
 Projekt mający na celu konwersję uproszczonych programów w języku C# na język Python. 
+
+### 🌍 [Environmental Monitor](https://github.com/twoje-konto/environmental-monitor)  
+Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania danych za pomocą MQTT.
+
 
 ---
 
