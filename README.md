@@ -22,6 +22,9 @@ Aplikacja webowa oparta na **ASP.NET MVC**, pozwalająca zarządzać danymi stud
 ### 🌍 [Environmental Monitor](https://github.com/twoje-konto/environmental-monitor)  
 Projekt IoT wykorzystujący ESP32 do monitorowania środowiska i przesyłania danych za pomocą MQTT.
 
+### 🏨 [Hotel Management System](https://github.com/kamilabla/hotel-management-system)
+Aplikacja konsolowa w **Java** do zarządzania hotelem, umożliwiająca zameldowanie, wymeldowanie, przeglądanie i zapisywanie danych o pokojach w pliku CSV.
+
 
 ---
 
