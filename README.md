@@ -14,7 +14,7 @@ Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i tech
 
 ---
 
-## Projekty, z których jestem dumna:
+## Moje projekty:
 
 ### 📚 [Baza Studentów](https://github.com/kamilabla/projekt_baza_studentow)  
 Aplikacja webowa oparta na **ASP.NET MVC**, pozwalająca zarządzać danymi studentów oraz pracowników.
