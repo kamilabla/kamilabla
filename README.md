@@ -1,6 +1,6 @@
 # Cześć! 👋
 
-Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i technologii. Na moim profilu znajdziesz różnorodne projekty nad którymi pracowałam.
+Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i technologii. Na moim profilu znajdują się różne projekty nad którymi pracowałam.
 
 ---
 
