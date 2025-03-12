@@ -1,4 +1,4 @@
-# Cześć! 👋
+# Cześć! 
 
 Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i technologii. Na moim profilu znajdują się różne projekty nad którymi pracowałam.
 
@@ -23,6 +23,8 @@ Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i tech
 ---
 
 ## Moje projekty:
+
+### [Doctor and Patient Calendar](https://github.com/kamilabla/Konsultacje-lekarskie)
 
 ### [Baza Studentów](https://github.com/kamilabla/projekt_baza_studentow)  
 Aplikacja webowa oparta na **ASP.NET MVC**, pozwalająca zarządzać danymi studentów oraz pracowników.
