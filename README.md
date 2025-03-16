@@ -24,7 +24,7 @@ My name is Kamila, I'm passionate about technology, programming and physics. On 
 ## My projects:
 
 ### [Doctor and Patient Calendar](https://github.com/kamilabla/Konsultacje-lekarskie)
-Web application written in **Angular 19** and connected to Firestore database, displays a simple interface of a calendar for doctors and patients, with a possibility of booking a concultation.  
+Web application written in **Angular 19** and connected to Firestore database, displays a simple interface of a calendar for doctors and patients, with a possibility of booking a consultation.  
 
 ### [Students' database](https://github.com/kamilabla/projekt_baza_studentow)  
 Web app based on **ASP.NET MVC** enabling management of students' and teachers' data.
