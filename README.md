@@ -6,7 +6,7 @@ My name is Kamila, I'm passionate about technology, programming and physics. On 
 
 ## About me
 
--  I study Computer Science and Intelligent Systems on AGH University of Cracow and I'm currently in my third year of studies.
+-  I study Computer Science on AGH University of Cracow and I'm currently in my third year of studies.
 -  I like to explore new technologies.
 -  In the meantime I learn languages and read books.
 
