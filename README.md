@@ -42,7 +42,6 @@ This project's purpose is conversion of simplified C# programs into Python.
 
 ## How to contact me?
 
-- **Email**: kamilablaszczyna@gmail.com
 - **LinkedIn**: [Kamila Błaszczyna](https://www.linkedin.com/in/kamila-b%C5%82aszczyna-9690432b5/)
  
 
