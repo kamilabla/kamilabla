@@ -1,46 +1,46 @@
-# Cześć! 
+# Hello! 
 
-Mam na imię Kamila Błaszczyna, jestem pasjonatką fizyki, programowania i technologii. Na moim profilu znajdują się różne projekty nad którymi pracowałam.
-
----
-
-## O mnie
-
--  Studiuję Informatykę i Systemy Inteligentne na Akademii Górniczo-Hutniczej w Krakowie i jestem obecnie na 3 roku.
--  Lubię eksplorować nowe technologie.
--  W wolnym czasie uczę się języków i czytam książki.
+My name is Kamila, I'm passionate about technology, programming and physics. On my profile you can find multiple projects that I've worked on.
 
 ---
 
-## Technologie, którymi się zajmuję:
+## About me
+
+-  I study Computer Science and Intelligent Systems on AGH University of Cracow and I'm currently in my third year of studies.
+-  I like to explore new technologies.
+-  In the meantime I learn languages and read books.
+
+---
+
+## Technologies I work with:
 
 - **Backend**: .NET, ASP.NET, Entity Framework  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Bazy danych**: SQL Server, SQLite  
-- **Inne**: Git, REST API, JSON, XML  
-- **IoT i mikrokontrolery**: ESP32, MQTT, BLE 
+- **Databases**: SQL Server, SQLite  
+- **Other**: Git, REST API, JSON, XML  
 
 ---
 
-## Moje projekty:
+## My projects:
 
 ### [Doctor and Patient Calendar](https://github.com/kamilabla/Konsultacje-lekarskie)
+Web application written in **Angular 19** and connected to Firestore database, displays a simple interface of a calendar for doctors and patients, with a possibility of booking a concultation.  
 
-### [Baza Studentów](https://github.com/kamilabla/projekt_baza_studentow)  
-Aplikacja webowa oparta na **ASP.NET MVC**, pozwalająca zarządzać danymi studentów oraz pracowników.
+### [Students' database](https://github.com/kamilabla/projekt_baza_studentow)  
+Web app based on **ASP.NET MVC** enabling management of students' and teachers' data.
 
 ### [Hotel Management System](https://github.com/kamilabla/hotel-management-system)
-Aplikacja konsolowa w **Java** do zarządzania hotelem, umożliwiająca zameldowanie, wymeldowanie, przeglądanie i zapisywanie danych o pokojach w pliku CSV.
+Console application in **Java** for hotel-management, handling check-in, check-out, looking through and saving data about guests to a CSV file.
 
-### [Konwerter z C# na Python'a](https://github.com/kingaa1/KonwerterCs-Python)<br/>
-Projekt mający na celu konwersję uproszczonych programów w języku C# na język Python. 
+### [C# to Python converter](https://github.com/kingaa1/KonwerterCs-Python)<br/>
+This project's purpose is conversion of simplified C# programs into Python.
 
 ### 
 
 ---
 
 
-## Jak się ze mną skontaktować?
+## How to contact me?
 
 - **Email**: kamilablaszczyna@gmail.com
 - **LinkedIn**: [Kamila Błaszczyna](https://www.linkedin.com/in/kamila-b%C5%82aszczyna-9690432b5/)
@@ -48,4 +48,4 @@ Projekt mający na celu konwersję uproszczonych programów w języku C# na jęz
 
 ---
 
-Dziękuję za odwiedzenie mojego profilu! 😊
+Thank you for visiting my profile! 😊
