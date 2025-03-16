@@ -17,7 +17,7 @@ My name is Kamila, I'm passionate about technology, programming and physics. On 
 - **Backend**: .NET, ASP.NET, Entity Framework
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, Angular 19, React
 - **Databases**: SQL Server, SQLite  
-- **Other**: Git, REST API, JSON, XML  
+- **Other**: Git, GitHub, REST API
 
 ---
 
