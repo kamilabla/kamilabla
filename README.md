@@ -24,6 +24,7 @@ My name is Kamila, I'm passionate about technology, programming and physics. On 
 ## My projects:
 
 ### [Book Manager](https://github.com/kamilabla/book_list_.NET)
+BookManager is a web application built with ASP.NET Core MVC that allows users to manage their personal library.
 
 ### [Doctor and Patient Calendar](https://github.com/kamilabla/Konsultacje-lekarskie)
 Web application written in **Angular 19** and connected to Firestore database, displays a simple interface of a calendar for doctors and patients, with a possibility of booking a consultation.  
